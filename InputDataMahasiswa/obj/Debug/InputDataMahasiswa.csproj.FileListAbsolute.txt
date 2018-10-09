@@ -1,0 +1,20 @@
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.exe.config
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.exe
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.pdb
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.csprojResolveAssemblyReference.cache
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.Form1.resources
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.Properties.Resources.resources
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.csproj.GenerateResource.Cache
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.exe
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.pdb
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\InputDataMahasiswa\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.FrmListMahasiswa.resources
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.exe.config
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.exe
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.pdb
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.exe
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.pdb
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.csprojResolveAssemblyReference.cache
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.Mahasiswa.resources
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.FrmListMahasiswa.resources
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.Properties.Resources.resources
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.csproj.GenerateResource.Cache

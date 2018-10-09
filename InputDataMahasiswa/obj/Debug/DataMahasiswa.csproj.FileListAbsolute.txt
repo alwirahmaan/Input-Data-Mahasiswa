@@ -1,0 +1,10 @@
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.exe.config
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.exe
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\bin\Debug\InputDataMahasiswa.pdb
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.Mahasiswa.resources
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.FrmListMahasiswa.resources
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.Properties.Resources.resources
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\DataMahasiswa.csproj.GenerateResource.Cache
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.exe
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\InputDataMahasiswa.pdb
+D:\TUGAS KULIAH\Input-Data-Mahasiswa-master\InputDataMahasiswa\obj\Debug\DataMahasiswa.csprojResolveAssemblyReference.cache
